@@ -8,7 +8,7 @@ export default function Document() {
     <Html>
       <Head></Head>
 
-      <body className="bg-gray-70">
+      <body className="bg-gray-100">
         <Main />
         <Footer />
         <NextScript />
