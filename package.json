@@ -1,9 +1,9 @@
 {
-  "name": "ShibariumAIn",
-  "description": "Turn your sketch into a refined image using AI",
+  "name": "ShibariumAI",
+  "description": "Ise Shibarium AI to turn a sketch into a refined image",
   "appName": "ShibariumAI Diffusion",
-  "appSubtitle": "Turn your sketch into a refined image using AI",
-  "appMetaDescription": "Turn your sketch into a refined image using AI",
+  "appSubtitle": "Use Shibarium AI to turn a sketch into a refined image",
+  "appMetaDescription": "Use Shibarium AI to turn a sketch into a refined image",
   "version": "1.0.0",
   "private": true,
   "scripts": {
