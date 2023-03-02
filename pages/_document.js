@@ -8,10 +8,12 @@ export default function Document() {
     <Html>
       <Head></Head>
 
-      <body className="bg-gray-100">
-        <Main />
-        <Footer />
-        <NextScript />
+<body className="bg-black">
+  <Main />
+  <Footer />
+  <NextScript />
+
+
       </body>
     </Html>
   );
